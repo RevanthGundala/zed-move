@@ -1,0 +1,7 @@
+{
+  "name": "Move",
+  "version": "0.0.1",
+  "authors": ["Revanth Gundala <revanth.gundala@gmail.com>"],
+  "description": "Move language support for Zed",
+  "repository": "https://github.com/RevanthGundala/my-zed-extension"
+}
