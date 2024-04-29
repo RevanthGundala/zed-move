@@ -1,0 +1,10 @@
+/Users/revanthgundala/projects/zed-move/zed-move/target/debug/deps/libwit_bindgen_core-6791cec8242799a4.rmeta: /Users/revanthgundala/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wit-bindgen-core-0.22.0/src/lib.rs /Users/revanthgundala/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wit-bindgen-core-0.22.0/src/abi.rs /Users/revanthgundala/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wit-bindgen-core-0.22.0/src/ns.rs /Users/revanthgundala/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wit-bindgen-core-0.22.0/src/source.rs
+
+/Users/revanthgundala/projects/zed-move/zed-move/target/debug/deps/libwit_bindgen_core-6791cec8242799a4.rlib: /Users/revanthgundala/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wit-bindgen-core-0.22.0/src/lib.rs /Users/revanthgundala/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wit-bindgen-core-0.22.0/src/abi.rs /Users/revanthgundala/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wit-bindgen-core-0.22.0/src/ns.rs /Users/revanthgundala/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wit-bindgen-core-0.22.0/src/source.rs
+
+/Users/revanthgundala/projects/zed-move/zed-move/target/debug/deps/wit_bindgen_core-6791cec8242799a4.d: /Users/revanthgundala/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wit-bindgen-core-0.22.0/src/lib.rs /Users/revanthgundala/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wit-bindgen-core-0.22.0/src/abi.rs /Users/revanthgundala/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wit-bindgen-core-0.22.0/src/ns.rs /Users/revanthgundala/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wit-bindgen-core-0.22.0/src/source.rs
+
+/Users/revanthgundala/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wit-bindgen-core-0.22.0/src/lib.rs:
+/Users/revanthgundala/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wit-bindgen-core-0.22.0/src/abi.rs:
+/Users/revanthgundala/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wit-bindgen-core-0.22.0/src/ns.rs:
+/Users/revanthgundala/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wit-bindgen-core-0.22.0/src/source.rs:
